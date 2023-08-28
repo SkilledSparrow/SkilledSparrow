@@ -10,7 +10,6 @@ I have been in the computer science and web development Space for 2.5+ Years . I
 * 🚀  I'm currently working at [Prodigal AI]((https://www.prodigalai.com/))
 * 🧠  I'm learning about FrontEnd development, software engineering and MERN.
 * 🤝  I'm open to collaborating on webD Projects and Integrations
-* 🖥️  See my profile at [LinkedIn]((https://www.linkedin.com/in/abhishek-sharma-750a4a243/))
 * ✉️  You can contact me at [as850082@gmail.com](mailto:as850082@gmail.com)
 
 ### Skills
