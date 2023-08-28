@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Frontend Development
 ------------------------------------
 
-I have been in the computer science and web development Space for 2.5+ Years . I currently work as a Frontend Developer at ProdigalAI. I love talking and reading about software engineering and most of my work revolves around the Frontend development.
+I have been in the computer science and web development Space for 1+ Year . I currently work as a Frontend Developer at ProdigalAI. I love talking and reading about software engineering and most of my work revolves around the Frontend development.
 
 * 🌍  I'm based in Delhi, India.
 * 🚀  I'm currently working at [Prodigal AI]((https://www.prodigalai.com/))
@@ -37,7 +37,7 @@ I have been in the computer science and web development Space for 2.5+ Years . I
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/SkilledSparrow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="(https://www.linkedin.com/in/abhishek-sharma-750a4a243/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<p align="left"> <a href="https://www.github.com/SkilledSparrow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abhishek-sharma-750a4a243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### Badges
 
